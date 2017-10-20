@@ -1,0 +1,5 @@
+/Users/boykobonev/Projects/DijkstraWithPriorityQueue/DijkstraWithPriorityQueue/bin/Debug/DijkstraWithPriorityQueue.exe
+/Users/boykobonev/Projects/DijkstraWithPriorityQueue/DijkstraWithPriorityQueue/bin/Debug/DijkstraWithPriorityQueue.pdb
+/Users/boykobonev/Projects/DijkstraWithPriorityQueue/DijkstraWithPriorityQueue/obj/x86/Debug/DijkstraWithPriorityQueue.csproj.CoreCompileInputs.cache
+/Users/boykobonev/Projects/DijkstraWithPriorityQueue/DijkstraWithPriorityQueue/obj/x86/Debug/DijkstraWithPriorityQueue.exe
+/Users/boykobonev/Projects/DijkstraWithPriorityQueue/DijkstraWithPriorityQueue/obj/x86/Debug/DijkstraWithPriorityQueue.pdb

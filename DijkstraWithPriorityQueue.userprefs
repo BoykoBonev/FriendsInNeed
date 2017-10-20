@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{90E49CD4-6730-4F0B-9925-B2B5E7401742}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DijkstraWithPriorityQueue/DijkstraService.cs">
+    <Files>
+      <File FileName="DijkstraWithPriorityQueue/Program.cs" Line="52" Column="1" />
+      <File FileName="DijkstraWithPriorityQueue/PriorityQueue.cs" Line="13" Column="19" />
+      <File FileName="DijkstraWithPriorityQueue/Node.cs" Line="24" Column="10" />
+      <File FileName="DijkstraWithPriorityQueue/Edge.cs" Line="12" Column="10" />
+      <File FileName="DijkstraWithPriorityQueue/DijkstraService.cs" Line="24" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DijkstraWithPriorityQueue PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
